@@ -1,0 +1,6 @@
+﻿  Graph.cpp
+C:\Users\Karak\source\repos\SocialConnections\SocialConnections\Graph.cpp(59,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Karak\source\repos\SocialConnections\SocialConnections\Graph.cpp(127,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SocialConnections.cpp
+  Создание кода...
+  SocialConnections.vcxproj -> C:\Users\Karak\source\repos\SocialConnections\x64\Debug\SocialConnections.exe
